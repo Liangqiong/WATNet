@@ -1,7 +1,7 @@
 ## Note (brief introduction of WATNet)
-This is a reference implementation for paper "Synthesizing 7T from 3T MRI via Deep Learning in Spatial and Wavelet Domains". In this paper, we introduce a novel deep learning network that fuses complementary information from spatial and wavelet domains to synthesize 7T T1-weighted images from their 3T counterparts.
+This is a reference implementation for paper "Synthesizing 7T from 3T MRI via Deep Learning in Spatial and Wavelet Domains" (caffe implementation). In this paper, we introduce a novel deep learning network that fuses complementary information from spatial and wavelet domains to synthesize 7T T1-weighted images from their 3T counterparts.
 
-The code has been tested on Linux (Ubuntu 14.04), using Titan X GPU and on MATLAB 2018b.
+The code has been tested on Linux (Ubuntu 14.04), using Caffe, Titan X GPU and on MATLAB 2018b.
 
 Code is provided by Liangqiong Qu on 2019/08/16)
 
