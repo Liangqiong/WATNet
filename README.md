@@ -14,7 +14,6 @@ Change the makefile.config file according to the your own computer and build caf
 
 ## Getting Started and Usage
 ### Dataset 
-- The 3T/7T files are saved in folder "Dataset/Orig_15/3T7T-Data/" 
 
 - Pre-processing of the dataset (including min-max normalization, histogram matching, and data augmentation)
 `Run WATNet/matlab/demo/demo_processing_hdf5_for_train.m`
